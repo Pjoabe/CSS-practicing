@@ -1,0 +1,59 @@
+.body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: gray;
+}
+
+.womanIMG {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.div1 {
+  width: 400px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.avatarPNG {
+  width: 30px;
+  border-radius: 40px;
+  margin-right: 10px;
+}
+
+.footer {
+  display: flex;
+  background-color: white;
+  width: 400px;
+  border-radius: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.personInfo {
+  opacity: 0.4;
+  flex: 1 1 100%;
+  margin-left: 40px;
+  margin-top: 0px;
+}
+
+.toolSuggestion {
+  opacity: 0.5;
+}
+
+
+.personDescription {
+  flex: 1 1 50%;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.toolSuggestion {
+  margin-top: 1px;
+}
